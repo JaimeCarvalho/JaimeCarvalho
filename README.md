@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jaime Carvalho
+- 🌱 I’m currently working on developing front-end interactive features
+- 👀 I’m interested in enhance my microservice knowledge even further
+- 🌱 I’m currently learning SpringBoot Framework
+- 💞️ I’m looking to collaborate on Exciting new Backedn Development Projects
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jaimecarvalho22/)
+- ✨ Fun Fact: I practice Calisthenics (ask me about it)
